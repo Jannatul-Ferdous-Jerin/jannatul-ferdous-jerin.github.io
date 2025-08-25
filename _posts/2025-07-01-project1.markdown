@@ -4,7 +4,6 @@ title:  "Exploring Subseasonal Predictability of Heatwaves in Dhaka with Explain
 image: images\Dhaka-city.png
 categories: course-project
 course: "Met 411 (Research Project)"
-code: https://github.com/rabeya-akter/Automatic-Stock-Trading-Using-Approximate-Q-Learning
 
 ---
 Explored the subseasonal predictability of heatwaves in Dhaka using machine learning and explainable AI models. Integrated meteorological and climate datasets to identify key atmospheric predictors driving heatwave events. Applied model interpretation techniques to enhance transparency and trust in predictions. The study contributes to improved early warning systems and risk management strategies for extreme heat events in South Asia.
