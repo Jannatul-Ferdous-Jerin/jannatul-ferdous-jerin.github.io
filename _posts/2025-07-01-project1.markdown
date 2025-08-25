@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exploring Subseasonal Predictability of Heatwaves in Dhaka with Explainable AI Model"
-image: images\stock.png
+image: images\Dhaka-city.png
 categories: course-project
 course: "Met 411 (Research Project)"
 code: https://github.com/rabeya-akter/Automatic-Stock-Trading-Using-Approximate-Q-Learning
