@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evaluation of BATS and CLM Land Surface Schemes in RegCM5 for Temperature Simulation over Bangladesh"
-image: images\stock.png
+image: images\project2.jpg
 categories: course-project
 course: "MetLb 410 (Weather & Climate Modelling)"
 report:

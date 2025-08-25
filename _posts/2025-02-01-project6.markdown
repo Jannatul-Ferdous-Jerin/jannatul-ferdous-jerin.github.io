@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finding The Common Ground Between Forecast Dissemination And Interpretation: A Case Study On The Lessons Learned From The Cyclone ‘Mocha’"
-image: images\stock.png
+image: images\project6.jpg
 categories: course-project
 course: "MetV 111 (Field Experiment + Vivavoce)"
 report:
