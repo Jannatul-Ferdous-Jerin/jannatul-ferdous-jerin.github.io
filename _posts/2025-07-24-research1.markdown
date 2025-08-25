@@ -3,7 +3,7 @@ layout: post
 date:   2025-07-27
 title:  ""
 categories: research-ongoing
-image: images\time.JPG
+image: images\research1.jpg
 venue: "Submitted in AAAI 2026"
 author: "Jannatul Ferdous Jerin"
 authors: Jannatul Ferdous Jerin, Pappu Paul
