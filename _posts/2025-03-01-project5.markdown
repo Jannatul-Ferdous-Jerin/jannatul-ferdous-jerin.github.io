@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Economic And Hydrometeorological Aspects Of The August Flood: Assessing Vulnerability, Impact, And Community Preparedness"
-image: images\stock.png
+image: images\project5.jpg
 categories: course-project
 course: "MetV 213 (Field Experiment + Vivavoce)"
 report:

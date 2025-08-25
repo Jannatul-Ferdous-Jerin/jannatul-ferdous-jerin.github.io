@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Climatological Analysis Of Tropical Cyclones Over The North Indian Ocean: 1982–2023"
-image: images\stock.png
+image: images\project3
 categories: course-project
 course: "MetTh 407 (Climatology and Climate Modeling)"
 report:

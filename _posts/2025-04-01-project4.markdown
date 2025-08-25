@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simulation Of Structure, Intensity, Landfall And Track of Tropical Cyclone “Mocha” Using NWP Models"
-image: images\stock.png
+image: images\project4.png
 categories: course-project
 course: "MetLb 406 (Applications of NWP Modeling)"
 report:
