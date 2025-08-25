@@ -7,8 +7,4 @@ course: "MetV 213 (Field Experiment + Vivavoce)"
 report:
 
 ---
-As part of our academic coursework, my classmate and I conducted a field-based research project on the August
-2024 flash flood. We surveyed and interviewed affected individuals and families to assess socioeconomic
-vulnerabilities, hydrometeorological triggers, and levels of community preparedness and response. I prepared the
-questionnaire for the survey, which guided our data collection process. Using both qualitative and quantitative
-methods, we analyzed patterns of exposure, adaptive capacity, and disaster impacts.
+Conducted a field-based research study on the August 2024 flash flood, focusing on socioeconomic vulnerabilities, hydrometeorological triggers, and community preparedness and response. Designed the survey questionnaire and carried out household interviews with affected individuals and families to guide systematic data collection. Applied both qualitative and quantitative methods to analyze patterns of exposure, adaptive capacity, and the overall impacts of the disaster.

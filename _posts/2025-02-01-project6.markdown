@@ -7,4 +7,4 @@ course: "MetV 111 (Field Experiment + Vivavoce)"
 report:
 
 ---
-Conducted a case study on Tropical Cyclone Mocha to explore the common ground between forecast dissemination and interpretation. The research involved surveying people who were most affected by the cyclone to understand how forecasts were received, interpreted, and acted upon at the community level. The study highlighted gaps between scientific communication and local understanding, revealing key lessons for improving forecast dissemination, strengthening public awareness, and enhancing community preparedness
+Conducted a case study on Tropical Cyclone Mocha to explore the common ground between forecast dissemination and interpretation. The research involved surveying people who were most affected by the cyclone to understand how forecasts were received, interpreted, and acted upon at the community level. The study highlighted gaps between scientific communication and local understanding, revealing key lessons for improving forecast dissemination, strengthening public awareness, and enhancing community preparedness.
