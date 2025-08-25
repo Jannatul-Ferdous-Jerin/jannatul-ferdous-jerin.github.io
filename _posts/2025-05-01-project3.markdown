@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Climatological Analysis Of Tropical Cyclones Over The North Indian Ocean: 1982–2023"
+image: images\stock.png
+categories: course-project
+course: "MetTh 407 (Climatology and Climate Modeling)"
+report:
+
+---
+Analyzing the climatological characteristics of tropical cyclones over the North Indian Ocean from 1982 to 2023. The
+analysis examines cyclone genesis location distribution, frequency patterns on annual, seasonal, monthly, and
+decadal scales, along with cyclone duration and landfall locations. By capturing both spatial and temporal variability,
+the study highlights long-term trends and shifts in tropical cyclone behavior in this region.

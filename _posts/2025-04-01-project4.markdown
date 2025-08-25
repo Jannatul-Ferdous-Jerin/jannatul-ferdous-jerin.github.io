@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Simulation Of Structure, Intensity, Landfall And Track of Tropical Cyclone “Mocha” Using NWP Models"
+image: images\stock.png
+categories: course-project
+course: "MetLb 406 (Applications of NWP Modeling)"
+report:
+
+---
+Simulated the structure, intensity, landfall, and track of Tropical Cyclone “Mocha” using the Weather Research and
+Forecasting (WRF) model. Key atmospheric parameters such as temperature, mean sea-level pressure, surface
+fluxes, wind speed, vorticity, relative humidity, convergence, divergence, and vertical wind shear were analyzed to
+understand the processes driving cyclone formation and intensification. The simulated outputs were validated
+against observational data for track, minimum central pressure, and maximum wind speed. The findings provide
+valuable insights into the model’s performance and demonstrate its applicability in forecasting high-impact tropical
+cyclone events.

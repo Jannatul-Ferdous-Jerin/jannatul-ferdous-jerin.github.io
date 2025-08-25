@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Economic And Hydrometeorological Aspects Of The August Flood: Assessing Vulnerability, Impact, And Community Preparedness"
+image: images\stock.png
+categories: course-project
+course: "MetV 213 (Field Experiment + Vivavoce)"
+report:
+
+---
+As part of our academic coursework, my classmate and I conducted a field-based research project on the August
+2024 flash flood. We surveyed and interviewed affected individuals and families to assess socioeconomic
+vulnerabilities, hydrometeorological triggers, and levels of community preparedness and response. I prepared the
+questionnaire for the survey, which guided our data collection process. Using both qualitative and quantitative
+methods, we analyzed patterns of exposure, adaptive capacity, and disaster impacts.

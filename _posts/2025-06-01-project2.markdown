@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Evaluation of BATS and CLM Land Surface Schemes in RegCM5 for Temperature Simulation over Bangladesh"
+image: images\stock.png
+categories: course-project
+course: "MetLb 410 (Weather & Climate Modelling)"
+report:
+
+---
+Evaluating the performance of the BATS and CLM land surface schemes in the RegCM5 regional climate model for simulating temperature over Bangladesh. Model outputs are compared with CRU observational data to assess seasonal, monthly, and annual temperature patterns. The study aims to identify how well each land surface scheme captures temporal variability and long-term trends, providing insights into their suitability for climate studies in the South Asian monsoon region.
