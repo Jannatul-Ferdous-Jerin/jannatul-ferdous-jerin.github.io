@@ -2,7 +2,7 @@
 layout: post
 title:  "Exploring Subseasonal Predictability of Heatwaves in Dhaka with Explainable AI Model"
 image: images\Dhaka-city.png
-categories: course-project
+categories: research-ongoing
 course: "Met 411 (Research Project)"
 
 ---
