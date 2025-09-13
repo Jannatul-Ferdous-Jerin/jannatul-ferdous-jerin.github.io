@@ -4,7 +4,7 @@ title:  "Economic And Hydrometeorological Aspects Of The August Flood: Assessing
 image: images\project5.jpg
 categories: course-project
 course: "MetV 213 (Field Experiment + Vivavoce)"
-report:
+report: https://drive.google.com/file/d/1GvXWNmhRCUutzZAxJXI-0G778mygT7BC/view?usp=drive_link
 
 ---
 Conducted a field-based research study on the August 2024 flash flood, focusing on socioeconomic vulnerabilities, hydrometeorological triggers, and community preparedness and response. Designed the survey questionnaire and carried out household interviews with affected individuals and families to guide systematic data collection. Applied both qualitative and quantitative methods to analyze patterns of exposure, adaptive capacity, and the overall impacts of the disaster.

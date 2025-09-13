@@ -4,7 +4,7 @@ title:  "Climatological Analysis Of Tropical Cyclones Over The North Indian Ocea
 image: images\project3.jpg
 categories: course-project
 course: "MetTh 407 (Climatology and Climate Modeling)"
-report:
+slides: https://docs.google.com/presentation/d/1MGMwJnpdgF9wI8HPJNCnYA0bRo8a0Tr5/edit?usp=drive_link&ouid=108133167984773998077&rtpof=true&sd=true
 
 ---
 Analyzing the climatological characteristics of tropical cyclones over the North Indian Ocean from 1982 to 2023. The

@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2025-07-27
-title:  ""
+title:  "An Integrated Approach to Thunderstorm and Lightning Prediction in Bangladesh Using CAPE and Electric Potential"
 categories: research-ongoing
 image: images\research1.jpg
 venue: "Submitted in AAAI 2026"
@@ -10,3 +10,4 @@ authors: Jannatul Ferdous Jerin, Pappu Paul
 
 ---
 
+This research aims to improve severe weather warnings in Bangladesh by using the WRF model to simulate five historical thunderstorm events, focusing on the integrated role of atmospheric instability (CAPE) and charge separation (electric potential). The simulations established a strong predictive relationship between these factors, confirming their combined utility for more accurate thunderstorm and lightning forecasting. Currently working on the manuscript for publication.

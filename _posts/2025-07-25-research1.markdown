@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Exploring Subseasonal Predictability of Heatwaves in Dhaka with Explainable AI Model"
+title:  "{Exploring Subseasonal Heatwave Predictability in Dhaka using Prompt-Guided Deep Learning Framework"
 image: images\Dhaka-city.png
 categories: research-ongoing
 course: "Met 411 (Research Project)"
 
 ---
-Explored the subseasonal predictability of heatwaves in Dhaka using machine learning and explainable AI models. Integrated meteorological and climate datasets to identify key atmospheric predictors driving heatwave events. Applied model interpretation techniques to enhance transparency and trust in predictions. The study contributes to improved early warning systems and risk management strategies for extreme heat events in South Asia.
+This research investigates the predictability of subseasonal heatwaves in Dhaka by applying a deep learning framework designed for complex time series analysis. This study evaluates the framework's ability to integrate multi-scale climate data, combining local atmospheric variables with broader, large-scale atmospheric patterns. The methodology utilizes a prompt-based feature extraction technique, leveraging the representational power of Large Language Models to interpret the numerical climate data. The primary objective is to assess the performance of this framework in extending the skillful forecast horizon for extreme heat events, thereby evaluating its potential as a tool for more effective and timely early warning systems.
